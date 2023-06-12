@@ -1,0 +1,10 @@
+* eventbus
+
+An event bus in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/noloop/eventbus.git   |
+| commit  | 92c1fa3  |
+| systems | eventbus |
+|---------+-------------------------------------------|
+
